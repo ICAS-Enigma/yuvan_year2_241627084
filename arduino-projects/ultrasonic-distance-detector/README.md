@@ -2,14 +2,17 @@
 
 ### Overview
 
-This project uses an ultrasonic sensor (HC-SR04) with an Arduino and other basic circuit components to measure the distance of objects.
+This project uses an ultrasonic sensor (HC-SR04) with an Arduino and other basic circuit components to measure the distance of objects. If the object is present within a certain distance
+of the sensor(<100cms in this case) the buzzer sounds and the LED flashes rapidly indicating proximity.
 
 
 ### Components
 - Arduino(Uno)
 - HC-SR04 Ultrasonic Sensor
-- Breadboard & Jumper Wires
-- Buzzer/LED for alerts
+- Breadboard
+- Wires
+- Buzzer
+- LED
 
 ### Code 
 
