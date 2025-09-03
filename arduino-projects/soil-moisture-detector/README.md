@@ -18,6 +18,12 @@ the moisture level in the soil being tested.
 
 ### Code
 See [`soil_moisture_detector.ino`](soil_moisture_detector.ino).
+
+### How it Works
+1. The sensor checks how wet or dry the soil is.
+2. It sends a signal to the Arduino.
+3. The Arduino reads the signal and decides if the soil is dry.
+4. If dry, the Arduino can turn sounds the buzzer and flashes the LED Rapidly.
  
 ### States
 ->There are 2 states for this circuit
