@@ -11,7 +11,7 @@ This project uses an ultrasonic sensor (HC-SR04) with an Arduino and other basic
 - Breadboard & Jumper Wires
 - Buzzer/LED for alerts
 
-### Code File
+### Code 
 
 See [`ultrasonic_distance_detector.ino`](ultrasonic_distance_detector.ino).
 
