@@ -31,5 +31,5 @@ See [`ultrasonic_distance_detector.ino`](ultrasonic_distance_detector.ino).
 2. Medium Range(100-200cms)
 3. Too Close(0-100cms) Buzzer is sounded when the object is detected to be **TOO CLOSE**.
 
-### Demo
+### Demo & Schematic
 ->P.F.A Below
