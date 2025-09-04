@@ -30,5 +30,5 @@ See [`soil_moisture_detector.ino`](soil_moisture_detector.ino).
 1. DRY-> LED blinks and buzzer sounds to indicate that the soil is dry.
 2. WET-> Neither LED nor buzzer indicate anything. LCD Displays that the soil is **WET**.
 
-### Demo
+### Demo & Schematic
 ->P.F.A below
